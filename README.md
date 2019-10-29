@@ -31,7 +31,7 @@ Spring boot application with docker as container engine.
 
      http://localhost:8081/api/v1/test
      
-  It will return following response with statusCode as 200 in response header
+  It will return following response with statusCode as 200 in response header.
      'Welcome to spring boot docker example'
 
   
