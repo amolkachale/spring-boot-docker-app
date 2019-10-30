@@ -6,11 +6,11 @@ Spring boot application with docker as container engine.
 
 # Step to create docker image and run container:-
 
- 1. Go to <project path> and build the project using following command
+ 1. Go to project path and build the project using following command
  
    mvn clean install
            
-   It create executable jar file in <project path>/target folder.
+   It create executable jar file in project path/target folder.
     
  2. Then run following command
  
