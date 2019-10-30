@@ -16,7 +16,7 @@ Spring boot application with docker as container engine.
  
    docker build -t spring-boot-docker-app:1.0.0 .
           
-   It create docker image of name spring-boot-docker and tag 1.0.0.
+   It create docker image of name spring-boot-docker-app and tag 1.0.0.
     
  3. Then run following command
     
