@@ -16,7 +16,8 @@ Spring boot application with docker as container engine.
  
    docker build -t spring-boot-docker-app:1.0.0 .
           
-   It create docker image of name spring-boot-docker-app and tag 1.0.0.
+   It create docker image of name spring-boot-docker-app and tag 1.0.0 where tag is
+   optional and default value is latest.
     
  3. Then run following command
     
@@ -27,7 +28,7 @@ Spring boot application with docker as container engine.
  
 # Step to test application
 
-1. Call following rest endpoint 
+1. Call following GET REST API 
 
      http://localhost:8081/api/v1/test
      
